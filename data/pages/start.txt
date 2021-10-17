@@ -1,4 +1,4 @@
-Dokumentation BalticStream
+====== Dokumentation ======
 
-{{ :balticstream_cover.png?nolink&600 |}}
+{{  :balticstream_cover.png?nolink&600  }}
 
